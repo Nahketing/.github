@@ -1,4 +1,4 @@
-![Hi, we are Nahketing](assets/github-header.png "Hi, we are Nahketing")
+![Hi, we are Nahketing](/profile/assets/github-header.png "Hi, we are Nahketing")
 
 
 [![Website](https://img.shields.io/badge/website-000000.svg?style=for-the-badge&logoColor=white)](https://www.nahketing.de)
